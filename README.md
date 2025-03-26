@@ -17,6 +17,6 @@ reflex init
 ```
 
 ```bash
-reflex run
+REFLEX_USE_NPM=1 reflex run
 ```
 
